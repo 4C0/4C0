@@ -11,7 +11,7 @@
 <a rel="me" href="https://mstdn.maud.io/@nao">
   <img src="https://user-images.githubusercontent.com/7425329/198881499-ce1a244b-e982-4338-a1de-c0205f43c914.png" width="50px">
 </a>
-<a href="naokitter@gmail.com">
+<a href="mailto:naokitter@gmail.com">
   <img src="https://user-images.githubusercontent.com/7425329/198883039-c746e0ae-ea83-4035-b00f-a70120c85c23.png" width="50px">
 </a>
 
