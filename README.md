@@ -6,13 +6,13 @@
   
 
 <a href="https://twitter.com/4C0">
-  <img src="https://user-images.githubusercontent.com/7425329/198881246-4d44d5bc-2da7-46bb-a401-25b2062db737.png" width="50px">
+  <img src="https://user-images.githubusercontent.com/7425329/198881246-4d44d5bc-2da7-46bb-a401-25b2062db737.png" alt="Twitter_icon" width="50px">
 </a>
 <a rel="me" href="https://mstdn.maud.io/@nao">
-  <img src="https://user-images.githubusercontent.com/7425329/198881499-ce1a244b-e982-4338-a1de-c0205f43c914.png" width="50px">
+  <img src="https://user-images.githubusercontent.com/7425329/198881499-ce1a244b-e982-4338-a1de-c0205f43c914.png" alt="mastodon_icon" width="50px">
 </a>
 <a href="mailto:naokitter@gmail.com">
-  <img src="https://user-images.githubusercontent.com/7425329/198883039-c746e0ae-ea83-4035-b00f-a70120c85c23.png" width="50px">
+  <img src="https://user-images.githubusercontent.com/7425329/198883039-c746e0ae-ea83-4035-b00f-a70120c85c23.png" alt="mail_to_me" width="50px">
 </a>
 
 </div>
